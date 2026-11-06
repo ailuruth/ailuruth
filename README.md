@@ -1,7 +1,9 @@
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pet-dark.svg">
-  <img src="assets/pet-light.svg" width="80" height="48" alt="A pixel red panda swishing its tail">
+  <img src="assets/pet-light.svg" width="53" height="32" alt="A pixel red panda swishing its tail">
 </picture>
+</p>
 
 [![Blog](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMjQ4MzdCIi8%2BPC9zdmc%2B)](https://xlaude2040.com/)
 [![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/ailuruth_)
